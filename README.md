@@ -1,2 +1,3 @@
-# odin-recips
+# odin-recipes
+
 HTML Foundations Final Project
